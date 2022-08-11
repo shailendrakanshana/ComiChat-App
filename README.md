@@ -3,8 +3,8 @@ ComiChat is a messaging Android app that lets you make send text messages with j
 
 Technologies - 
 
-Kotlin
-Android Studio
-XML
+Kotlin,
+Android Studio,
+XML,
 FireBase
 
